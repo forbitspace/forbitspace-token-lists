@@ -4804,5 +4804,5 @@
             "logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4/logo.png"
         }
     ],
-    "version": { "major": 3, "minor": 2, "patch": 6 }
+    "version": { "major": 500, "minor": 3, "patch": 6 }
 }
