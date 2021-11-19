@@ -1874,7 +1874,7 @@
             "name": "Uniswap",
             "symbol": "UNI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/forbitspace/icons/main/token/uni.jpg"
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
         },
         {
             "address": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
