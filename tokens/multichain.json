@@ -6,6 +6,14 @@
 	"tokens": [
 		{
 			"chainId": 43114,
+			"address": "0xA953736904e23Fafb42e353D4122420899999999",
+			"name": "forbitspace",
+			"symbol": "FBS",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xA953736904e23Fafb42e353D4122420899999999/logo.png"
+		},
+		{
+			"chainId": 43114,
 			"address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
 			"decimals": 18,
 			"name": "Wrapped AVAX",
@@ -147,6 +155,14 @@
 			"symbol": "TUS",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0xA953736904e23Fafb42e353D4122420899999999",
+			"name": "forbitspace",
+			"symbol": "FBS",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xA953736904e23Fafb42e353D4122420899999999/logo.png"
 		},
 		{
 			"name": "Bakery Token",
@@ -867,6 +883,14 @@
 			"symbol": "EPS",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xA7f552078dcC247C2684336020c03648500C6d9F/logo.png"
+		},
+		{
+			"chainId": 137,
+			"address": "0xA953736904e23Fafb42e353D4122420899999999",
+			"name": "forbitspace",
+			"symbol": "FBS",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xA953736904e23Fafb42e353D4122420899999999/logo.png"
 		},
 		{
 			"name": "Aave",
@@ -1811,6 +1835,14 @@
 			"symbol": "GAIA",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x723B17718289A91AF252D616DE2C77944962d122/logo.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xA953736904e23Fafb42e353D4122420899999999",
+			"name": "forbitspace",
+			"symbol": "FBS",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xA953736904e23Fafb42e353D4122420899999999/logo.png"
 		},
 		{
 			"address": "0x111111111117dC0aa78b770fA6A738034120C302",
