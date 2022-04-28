@@ -168,7 +168,7 @@
 			"chainId": 43114,
 			"address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
 			"name": "Wootrade Network",
-			"symbol": "WOO.e",
+			"symbol": "WOO",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png"
 		},
@@ -200,7 +200,7 @@
 			"chainId": 43114,
 			"address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
 			"name": "Alpha Token",
-			"symbol": "ALPHA.e",
+			"symbol": "ALPHA",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png"
 		},
