@@ -81,7 +81,7 @@
 			"address": "0xde3A24028580884448a5397872046a019649b084",
 			"decimals": 6,
 			"name": "Old Tether USD",
-			"symbol": "oldUSDT",
+			"symbol": "USDT",
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/icons/main/token/usdt.jpg"
 		},
 		{
@@ -89,7 +89,7 @@
 			"address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
 			"decimals": 6,
 			"name": "Tether USD",
-			"symbol": "USDT",
+			"symbol": "USDT.e",
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/icons/main/token/usdt.jpg"
 		},
 		{
@@ -97,9 +97,16 @@
 			"address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
 			"decimals": 6,
 			"name": "USD Coin",
-			"symbol": "USDC",
+			"symbol": "USDC.e",
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/icons/main/token/usdc.jpg"
-		},
+		},{
+            "chainId": 43114,
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/forbitspace/icons/main/token/usdc.jpg"
+        },
 		{
 			"chainId": 43114,
 			"address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
