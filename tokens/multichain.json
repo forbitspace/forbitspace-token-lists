@@ -295,7 +295,7 @@
 		{
 			"chainId": 43114,
 			"address": "0x70928E5B188def72817b7775F0BF6325968e563B",
-			"name": "LUNA (Wormhole)",
+			"name": "LUNA Wormhole",
 			"symbol": "LUNA",
 			"decimals": 6,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x70928E5B188def72817b7775F0BF6325968e563B/logo.png"
