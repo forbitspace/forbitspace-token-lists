@@ -99,14 +99,15 @@
 			"name": "USD Coin",
 			"symbol": "USDCE",
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/icons/main/token/usdc.jpg"
-		},{
-            "chainId": 43114,
-            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-            "decimals": 6,
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "logoURI": "https://raw.githubusercontent.com/forbitspace/icons/main/token/usdc.jpg"
-        },
+		},
+		{
+			"chainId": 43114,
+			"address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+			"decimals": 6,
+			"name": "USD Coin",
+			"symbol": "USDC",
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/icons/main/token/usdc.jpg"
+		},
 		{
 			"chainId": 43114,
 			"address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
@@ -5146,6 +5147,110 @@
 			"symbol": "SHIBA",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0x0F3ADC247E91c3c50bC08721355A41037E89Bc20",
+			"name": "Wrapped ANC Token",
+			"symbol": "ANC",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x0F3ADC247E91c3c50bC08721355A41037E89Bc20/logo.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0x884DDBb5DC6c2cEf77d3E74c6CcCa315797d655B",
+			"name": "Carnomaly",
+			"symbol": "CARR",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x884DDBb5DC6c2cEf77d3E74c6CcCa315797d655B/logo.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xDe5eA375FFBDc8b25a80fe13D631E8Ba0AB4BB02",
+			"name": "Gera",
+			"symbol": "GERA",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xDe5eA375FFBDc8b25a80fe13D631E8Ba0AB4BB02/logo.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d",
+			"name": "LUNA (Wormhole)",
+			"symbol": "LUNA",
+			"decimals": 6,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d/logo.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+			"name": "Metis Token",
+			"symbol": "Metis",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0xDe5eA375FFBDc8b25a80fe13D631E8Ba0AB4BB02",
+			"name": "Gera",
+			"symbol": "GERA",
+			"decimals": 8,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xDe5eA375FFBDc8b25a80fe13D631E8Ba0AB4BB02/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
+			"name": "Metis Token",
+			"symbol": "Metis",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xe552Fb52a4F19e44ef5A967632DBc320B0820639/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+			"name": "LUNA (Wormhole)",
+			"symbol": "LUNA",
+			"decimals": 6,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x156ab3346823B651294766e23e6Cf87254d68962/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x9D9F777D0f9c1dC2851606611822ba002665E0BF",
+			"name": "Marbleheroes Token",
+			"symbol": "MBH",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x9D9F777D0f9c1dC2851606611822ba002665E0BF/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x2456BBAD80BfAD346AecEa45fA38C81a6963132D",
+			"name": "Meta Ruffy",
+			"symbol": "MR",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x2456BBAD80BfAD346AecEa45fA38C81a6963132D/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x7730ac665114c0e343B141dAaaeB097197191F8a",
+			"name": "ElonHype",
+			"symbol": "ElonHype",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x7730ac665114c0e343B141dAaaeB097197191F8a/logo.png"
+		},
+		{
+			"chainId": 137,
+			"address": "0x9cd6746665D9557e1B9a775819625711d0693439",
+			"name": "LUNA (Wormhole)",
+			"symbol": "LUNA",
+			"decimals": 6,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x9cd6746665D9557e1B9a775819625711d0693439/logo.png"
+		},
+		{
+			"chainId": 43114,
+			"address": "0x70928E5B188def72817b7775F0BF6325968e563B",
+			"name": "LUNA (Wormhole)",
+			"symbol": "LUNA",
+			"decimals": 6,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x70928E5B188def72817b7775F0BF6325968e563B/logo.png"
 		}
 	],
 	"version": { "major": 500, "minor": 5, "patch": 6 }
