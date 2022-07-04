@@ -232,7 +232,7 @@
 			"address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
 			"name": "Ampleforth secured by Meter Passport",
 			"symbol": "AMPL",
-			"decimals": 18,
+			"decimals": 9,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png"
 		},
 		{
