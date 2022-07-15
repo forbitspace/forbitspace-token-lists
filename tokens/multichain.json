@@ -994,7 +994,7 @@
 			"address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
 			"chainId": 56,
 			"decimals": 18,
-			"logoURI": "https://shibawallet.pro/assets/favicon32x32.png"
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x7B8274CcECD5BBCFe18958C3dB6471C5E3e1FBbf/logo.png"
 		},
 		{
 			"name": "O3 Swap Token",
@@ -1147,6 +1147,78 @@
 			"symbol": "ElonHype",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x7730ac665114c0e343B141dAaaeB097197191F8a/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0xa4080f1778e69467E905B8d6F72f6e441f9e9484",
+			"name": "Synapse",
+			"symbol": "SYN",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xa4080f1778e69467E905B8d6F72f6e441f9e9484/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+			"name": "Axie Infinity Shard",
+			"symbol": "AXS",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x111111111117dC0aa78b770fA6A738034120C302",
+			"name": "1INCH Token",
+			"symbol": "1INCH",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
+			"name": "Synthetix Network Token",
+			"symbol": "SNX",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x9Ac983826058b8a9C7Aa1C9171441191232E8404/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x347E430b7Cd1235E216be58ffA13394e5009E6e2",
+			"name": "GAIA Everworld",
+			"symbol": "GAIA",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x347E430b7Cd1235E216be58ffA13394e5009E6e2/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x361C60b7c2828fCAb80988d00D1D542c83387b50",
+			"name": "DefiChain",
+			"symbol": "DFI",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x361C60b7c2828fCAb80988d00D1D542c83387b50/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+			"name": "Fantom",
+			"symbol": "FTM",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xAD29AbB318791D579433D831ed122aFeAf29dcfe/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350",
+			"name": "Maker",
+			"symbol": "MKR",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350/logo.png"
+		},
+		{
+			"chainId": 56,
+			"address": "0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe",
+			"name": "Torum",
+			"symbol": "XTM",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe/logo.png"
 		},
 		{
 			"chainId": 137,
@@ -5251,6 +5323,14 @@
 			"symbol": "Metis",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
+			"name": "Voyager Token",
+			"symbol": "VGX",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d/logo.png"
 		}
 	],
 	"version": { "major": 500, "minor": 5, "patch": 6 }
