@@ -1221,6 +1221,14 @@
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe/logo.png"
 		},
 		{
+			"chainId": 56,
+			"address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+			"name": "CEEK",
+			"symbol": "CEEK",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66/logo.png"
+		},
+		{
 			"chainId": 137,
 			"address": "0xA953736904e23Fafb42e353D4122420899999999",
 			"name": "forbitspace",
