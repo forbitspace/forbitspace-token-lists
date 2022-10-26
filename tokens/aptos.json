@@ -1,0 +1,159 @@
+{
+    "name": "forbitswap",
+    "logoURI": "https://forbitswap.com/images/logo-swap.png",
+    "tokens": [
+        {
+            "type": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Staked Aptos",
+            "symbol": "stAPT",
+            "source": "Ditto",
+            "logoURI": "images/logo-coins/DittoStakedAptos.svg"
+        },
+        {
+            "type": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Staked Aptos",
+            "symbol": "tAPT",
+            "source": "Tortuga",
+            "logoURI": "images/logo-coins/tAPT.svg"
+        },
+        {
+            "type": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "source": "Wormhole",
+            "logoURI": "images/logo-coins/BTC.webp"
+        },
+        {
+            "type": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "source": "Wormhole",
+            "logoURI": "images/logo-coins/USDT.webp"
+        },
+        {
+            "type": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "source": "Wormhole",
+            "logoURI": "images/logo-coins/USDC.webp"
+        },
+        {
+            "type": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "source": "Wormhole",
+            "logoURI": "images/logo-coins/WETH.png"
+        },
+        {
+            "type": "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Solana",
+            "symbol": "SOL",
+            "source": "Wormhole",
+            "logoURI": "images/logo-coins/SOL.svg"
+        },
+        {
+            "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "source": "Layerzero",
+            "logoURI": "images/logo-coins/USDC.webp"
+        },
+        {
+            "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "source": "Layerzero",
+            "logoURI": "images/logo-coins/USDT.webp"
+        },
+        {
+            "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "source": "Layerzero",
+            "logoURI": "images/logo-coins/WETH.png"
+        },
+        {
+            "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WbtcCoin",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Celer Wrapped BTC",
+            "symbol": "ceWBTC",
+            "source": "Celer",
+            "logoURI": "images/logo-coins/BTC.webp"
+        },
+        {
+            "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WethCoin",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "Wrapped Ethereum",
+            "symbol": "ceWETH",
+            "source": "Celer",
+            "logoURI": "images/logo-coins/WETH.png"
+        },
+        {
+            "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::DaiCoin",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "Dai Stablecoin",
+            "symbol": "ceDai",
+            "source": "Celer",
+            "logoURI": "images/logo-coins/DAI.webp"
+        },
+        {
+            "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "ceUSDT",
+            "source": "Celer",
+            "logoURI": "images/logo-coins/USDT.webp"
+        },
+        {
+            "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "ceUSDC",
+            "source": "Celer",
+            "logoURI": "images/logo-coins/USDC.webp"
+        },
+        {
+            "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BusdCoin",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Binance USD",
+            "symbol": "ceBUSD",
+            "source": "Celer",
+            "logoURI": "images/logo-coins/BUSD.png"
+        },
+        {
+            "type": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BnbCoin",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Binance Coin",
+            "symbol": "ceBNB",
+            "source": "Celer",
+            "logoURI": "images/logo-coins/BNB.png"
+        }
+    ]
+}
