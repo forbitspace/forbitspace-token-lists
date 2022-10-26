@@ -3,6 +3,15 @@
     "logoURI": "https://forbitswap.com/images/logo-swap.png",
     "tokens": [
         {
+            "type": "0x1::aptos_coin::AptosCoin",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Aptos Coin",
+            "symbol": "APT",
+            "source": "",
+            "logoURI": "images/logo-coins/APT.svg"
+        },
+        {
             "type": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
             "chainId": 1,
             "decimals": 8,
