@@ -39,6 +39,15 @@
             "logoURI": "images/logo-coins/BTC.webp"
         },
         {
+            "type": "0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO",
+            "chainId": 1,
+            "decimals": 8,
+            "name": "Mojito",
+            "symbol": "MOJO",
+            "source": "",
+            "logoURI": "images/logo-coins/MOJO.svg"
+        },
+        {
             "type": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
             "chainId": 1,
             "decimals": 6,
