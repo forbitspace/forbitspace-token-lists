@@ -3231,10 +3231,10 @@
             "logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xafcE9B78D409bF74980CACF610AFB851BF02F257/logo.png"
         },
         {
-            "address": "0xf9209d900f7ad1DC45376a2caA61c78f6dEA53B6",
+            "address": "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18",
             "chainId": 1,
-            "name": "LIFT.Kitchen",
-            "symbol": "LIFT",
+            "name": "Verse",
+            "symbol": "VERSE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xf9209d900f7ad1DC45376a2caA61c78f6dEA53B6/logo.png"
         },
